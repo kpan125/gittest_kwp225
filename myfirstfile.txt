@@ -1,6 +1,3 @@
 whatever
-<<<<<<< HEAD
 this is gonna go wrong...
-=======
 hello world!
->>>>>>> 65820e4032859c552868477a9027be6c9c133612
