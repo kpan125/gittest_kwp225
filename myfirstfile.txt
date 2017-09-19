@@ -3,3 +3,4 @@ this is gonna go wrong...
 hello world!
 
 sam's second edit to create a conflict
+Hello there, there is Sam messing with your file
