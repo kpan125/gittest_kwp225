@@ -2,4 +2,4 @@ whatever
 this is gonna go wrong...
 hello world!
 
-sam's edit to create a conflict
+sam's second edit to create a conflict
